@@ -1,0 +1,13 @@
+Overriding - process when same method exist in super and subclass
+Why - to provide flexibility
+How to implement
+1. Inheritance
+2. same signature (name+parameters)
+3. same return type
+4. access modifiers -> overriding method must have same level of visibility or higher
+
+Polymorphism allows us to perform same action in different ways. There are two types of
+Polymorphism: early binding or compile time and time runtime or late binding.
+Polymorphism that is achieved with the help of method overloading is called early
+binding or compile time Polymorphism. When we achieve the polymorphism with the
+help of method overriding it is called run time Polymorphism.
